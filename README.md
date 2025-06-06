@@ -2,6 +2,8 @@
 
 Script em Python que ativa automaticamente a câmera 0 (noclip) no Euro Truck Simulator 2, editando o arquivo `config.cfg` localizado na pasta de Documentos. Não requer bibliotecas externas nem que o jogo esteja aberto.
 
+🔓 **Código totalmente aberto e comentado**, para total transparência e segurança — você pode verificar, modificar e adaptar como quiser.
+
 ---
 
 ## ✅ O que ele faz
